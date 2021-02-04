@@ -1,0 +1,1 @@
+print("coba kuy wkwk")
